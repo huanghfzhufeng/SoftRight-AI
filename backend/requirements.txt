@@ -1,0 +1,27 @@
+# FastAPI
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# Database
+sqlalchemy==2.0.25
+alembic==1.13.1
+
+# Google ADK (Agent Development Kit)
+google-adk==0.1.0
+
+# Utilities
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# File Processing
+python-docx==1.1.0
+pypdf2==3.0.1
+reportlab==4.0.8
+
+# HTTP Client
+httpx==0.26.0
+
+# Code Analysis
+gitpython==3.1.41

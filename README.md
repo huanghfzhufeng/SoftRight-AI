@@ -1,17 +1,3 @@
-\<div align="center"\>  
-\<img src="https://www.google.com/search?q=https://img.icons8.com/dusk/128/000000/law.png" alt="SoftRight AI Logo" width="100" /\>  
-\<h1\>SoftRight AI\</h1\>  
-\<h3\>🚀 软件著作权申请智能助手\</h3\>  
-\<p\>基于 Google ADK 与 React 的全自动化软著申请解决方案\</p\>  
-\<p\>  
-\<a href="\#功能特性"\>功能特性\</a\> •  
-\<a href="\#技术架构"\>技术架构\</a\> •  
-\<a href="\#快速开始"\>快速开始\</a\> •  
-\<a href="\#api-文档"\>API 文档\</a\> •  
-\<a href="\#贡献指南"\>贡献指南\</a\>  
-\</p\>  
-\</div\>
-
 ## **📖 项目简介**
 
 **SoftRight AI** 是一个专为开发者和企业设计的智能体（Agent）系统，旨在解决软件著作权（软著）申请过程中繁琐的文档编写和代码整理痛点。
@@ -154,7 +140,3 @@ npm start
 ## **📄 开源协议**
 
 本项目基于 [MIT License](https://www.google.com/search?q=LICENSE) 开源。
-
-\<div align="center"\>  
-\<p\>Made with ❤️ by the SoftRight Team\</p\>  
-\</div\>
