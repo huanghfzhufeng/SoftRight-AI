@@ -7,7 +7,8 @@ import {
   CodePage, 
   RiskPage, 
   GuidePage,
-  LoginPage
+  LoginPage,
+  SettingsPage
 } from './components/pages';
 import { colors } from './styles/colors';
 
@@ -27,6 +28,7 @@ const App: React.FC = () => {
       case 'Code': return <CodePage />;
       case 'Risk': return <RiskPage />;
       case 'Guide': return <GuidePage />;
+      case 'Settings': return <SettingsPage />;
       default: return <Dashboard />;
     }
   };

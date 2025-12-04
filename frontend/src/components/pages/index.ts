@@ -5,3 +5,4 @@ export { CodePage } from './CodePage';
 export { RiskPage } from './RiskPage';
 export { GuidePage } from './GuidePage';
 export { LoginPage } from './LoginPage';
+export { SettingsPage } from './SettingsPage';
