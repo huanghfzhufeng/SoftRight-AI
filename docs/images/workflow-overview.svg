@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" fill="none">
+  <defs>
+    <pattern id="g" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="1" height="1" fill="#334155" opacity="0.45"/>
+    </pattern>
+  </defs>
+  <rect x="6" y="6" width="874" height="214" fill="#070A0F" shape-rendering="crispEdges"/>
+  <rect x="4" y="0" width="868" height="216" fill="#2B3B52" shape-rendering="crispEdges"/>
+  <rect x="0" y="4" width="876" height="208" fill="#2B3B52" shape-rendering="crispEdges"/>
+  <rect x="4" y="4" width="868" height="208" fill="#111822" shape-rendering="crispEdges"/>
+  <rect x="4" y="4" width="868" height="208" fill="url(#g)" opacity="0.5"/>
+  <rect x="4" y="4" width="868" height="34" fill="#0B1017" shape-rendering="crispEdges"/>
+  <rect x="4" y="38" width="868" height="2" fill="#2B3B52" shape-rendering="crispEdges"/>
+  <rect x="18" y="17" width="8" height="8" fill="#4ADE80" shape-rendering="crispEdges"/>
+  <rect x="30" y="17" width="8" height="8" fill="#F59E0B" shape-rendering="crispEdges"/>
+  <rect x="42" y="17" width="8" height="8" fill="#38BDF8" shape-rendering="crispEdges"/>
+  <text x="64" y="25" fill="#F1F5F9" font-family="'SF Mono', 'JetBrains Mono', 'Menlo', 'Consolas', monospace" font-size="13" font-weight="800" letter-spacing="1.2">SOFTRIGHT-AI // SOFTWARE COPYRIGHT AGENT PIPELINE</text>
+  <text x="856" y="25" text-anchor="end" fill="#F59E0B" font-family="'SF Mono', 'JetBrains Mono', 'Menlo', 'Consolas', monospace" font-size="11" font-weight="700" letter-spacing="1">MULTI-AGENT WORKFLOW</text>
+
+  <rect x="24" y="68" width="192" height="118" fill="#0B1017" stroke="#2B3B52" stroke-width="2" shape-rendering="crispEdges"/>
+  <rect x="24" y="68" width="192" height="4" fill="#38BDF8" shape-rendering="crispEdges"/>
+  <text x="38" y="94" fill="#38BDF8" font-family="'SF Mono', 'JetBrains Mono', 'Menlo', 'Consolas', monospace" font-size="12" font-weight="800">01 CODE SCAN</text>
+  <text x="38" y="118" fill="#F1F5F9" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', -apple-system, sans-serif" font-size="13" font-weight="600">源码仓库静态解析</text>
+  <text x="38" y="138" fill="#94A3B8" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', -apple-system, sans-serif" font-size="11.5">提取模块、路由与核心逻辑</text>
+  <line x1="218" y1="127" x2="228" y2="127" stroke="#38BDF8" stroke-width="2.5" shape-rendering="crispEdges"/><polygon points="234,127 225,122 225,132" fill="#38BDF8"/>
+  <rect x="236" y="68" width="192" height="118" fill="#0B1017" stroke="#2B3B52" stroke-width="2" shape-rendering="crispEdges"/>
+  <rect x="236" y="68" width="192" height="4" fill="#4ADE80" shape-rendering="crispEdges"/>
+  <text x="250" y="94" fill="#4ADE80" font-family="'SF Mono', 'JetBrains Mono', 'Menlo', 'Consolas', monospace" font-size="12" font-weight="800">02 DOC AGENT</text>
+  <text x="250" y="118" fill="#F1F5F9" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', -apple-system, sans-serif" font-size="13" font-weight="600">设计说明书生成</text>
+  <text x="250" y="138" fill="#94A3B8" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', -apple-system, sans-serif" font-size="11.5">功能架构、流程与操作说明</text>
+  <line x1="430" y1="127" x2="440" y2="127" stroke="#4ADE80" stroke-width="2.5" shape-rendering="crispEdges"/><polygon points="446,127 437,122 437,132" fill="#4ADE80"/>
+  <rect x="448" y="68" width="192" height="118" fill="#0B1017" stroke="#2B3B52" stroke-width="2" shape-rendering="crispEdges"/>
+  <rect x="448" y="68" width="192" height="4" fill="#F59E0B" shape-rendering="crispEdges"/>
+  <text x="462" y="94" fill="#F59E0B" font-family="'SF Mono', 'JetBrains Mono', 'Menlo', 'Consolas', monospace" font-size="12" font-weight="800">03 CODE FORMAT</text>
+  <text x="462" y="118" fill="#F1F5F9" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', -apple-system, sans-serif" font-size="13" font-weight="600">合规鉴别源码排版</text>
+  <text x="462" y="138" fill="#94A3B8" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', -apple-system, sans-serif" font-size="11.5">自动整理前后 30 页源程序</text>
+  <line x1="642" y1="127" x2="652" y2="127" stroke="#F59E0B" stroke-width="2.5" shape-rendering="crispEdges"/><polygon points="658,127 649,122 649,132" fill="#F59E0B"/>
+  <rect x="660" y="68" width="192" height="118" fill="#0B1017" stroke="#2B3B52" stroke-width="2" shape-rendering="crispEdges"/>
+  <rect x="660" y="68" width="192" height="4" fill="#A78BFA" shape-rendering="crispEdges"/>
+  <text x="674" y="94" fill="#A78BFA" font-family="'SF Mono', 'JetBrains Mono', 'Menlo', 'Consolas', monospace" font-size="12" font-weight="800">04 EXPORT</text>
+  <text x="674" y="118" fill="#F1F5F9" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', -apple-system, sans-serif" font-size="13" font-weight="600">软著申报材料交付</text>
+  <text x="674" y="138" fill="#94A3B8" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', -apple-system, sans-serif" font-size="11.5">输出规范 Word / PDF 文档包</text>
+</svg>
