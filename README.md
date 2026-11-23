@@ -1,3 +1,5 @@
+<p align="center"><img src="./docs/images/workflow-overview.svg" alt="SoftRight-AI Multi-Agent Pipeline" width="100%" /></p>
+
 ## **📖 项目简介**
 
 **SoftRight AI** 是一个专为开发者和企业设计的智能体（Agent）系统，旨在解决软件著作权（软著）申请过程中繁琐的文档编写和代码整理痛点。
