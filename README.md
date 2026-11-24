@@ -1,4 +1,8 @@
 <p align="center"><img src="./docs/images/workflow-overview.svg" alt="SoftRight-AI Multi-Agent Pipeline" width="100%" /></p>
+> **在线体验**：<https://soft-right-ai.vercel.app>
+
+<p align="center"><img src="./docs/images/ui-showcase.png" alt="SoftRight AI Live UI Showcase" width="100%" /></p>
+
 
 ## **📖 项目简介**
 
